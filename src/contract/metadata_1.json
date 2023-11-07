@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Price",
+      "value": "$30"
+    }
+  ],
+  "description": "Elonmars Game NFT",
+  "image": "https://ipfs.io/ipfs/QmU7DA6Y2rPLZjFcAuBmXf85tZ7TkJxS9Q1vfzWRdBSpJe?filename=1.png",
+  "name": "Elonmars"
+}
